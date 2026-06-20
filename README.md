@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Avantika 👋
 
-<!--
-**avantika1005/avantika1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+☁️ Passionate about Cloud Computing, Web Development, and Problem Solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+* Data Structures & Algorithms
+* Full Stack Development
+* Cloud Computing
+  
+🛠 Tech Stack
+* HTML
+* CSS
+* JavaScript
+* Tailwind CSS
+* Python
+* Git & GitHub
+* Cloud Fundamentals
+
+🤖 Recently, I've also developed a growing interest in Artificial Intelligence and enjoy exploring how AI can be used to solve real-world problems and create meaningful impact.
+
+⭐ Fun Fact
+I enjoy building technology-driven solutions that address real-world challenges and improve people's lives.
+
